@@ -11,6 +11,7 @@ bittre
 bittrec
 bittres
 bittrex.com
+bittreex
 bittrexe
 bittrexx
 bittrez
@@ -91,6 +92,9 @@ blocktraded
 blocktrader
 blocktrads
 bocktrades
+block-trades
+blocktrads
+blocktrdes
 changelly.com
 changely
 shapeshif
@@ -112,6 +116,33 @@ bloctrades
 blocktradess
 blocktrade
 blocktraders
-`.trim().split('\n');
+linkcoin
+topbtc
+bit-z
+neraex
+bitflip
+bitsane
+exrates
+gatehub
+koinex
+tdax
+bitkrx
+scoin
+coinspot
+kcx
+bitnaru
+kocostock
+coin-room
+coinpia
+youbit
+bitthai
+kucoin
+gopax
+steempay
+steempays
+steemitpay
+`
+    .trim()
+    .split('\n');
 
 export default list;
